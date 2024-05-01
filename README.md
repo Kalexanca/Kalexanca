@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that aims to help people and the world
 - 📫 How to reach me karla.loranca@outlook.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am currently voiceless and walkless
+
 
 <!---
 Kalexanca/Kalexanca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
